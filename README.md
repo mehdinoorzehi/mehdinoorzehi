@@ -17,4 +17,9 @@
                  | ,','  __/ |             /   |
     _____________|','   ///_/-------------/   |
                   |===========,'
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdinoorzehi&show_icons=true&theme=blue)
+
+<p align="center">
+    <a href="https://github-readme-stats.vercel.app/api?username=mehdinoorzehi&show_icons=true&theme=blue">
+      <img src="https://github-readme-stats.vercel.app/api?username=mehdinoorzehi&show_icons=true&theme=blue"/>
+    </a>
+</p>
