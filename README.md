@@ -17,6 +17,9 @@
                  | ,','  __/ |             /   |
     _____________|','   ///_/-------------/   |
                   |===========,'
+<p align="center">
+    <img alt="GIF" src="https://github.com/mehdinoorzehi/mehdinoorzehi/blob/main/me.gif"/>
+</p>
 
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=mehdinoorzehi&show_icons=true&theme=blue">
